@@ -1,5 +1,5 @@
 # Data-visualisation-using-python
-##Learning from Data Visualisation using python course covering the following :
+## Learning from Data Visualisation using python course covering the following :
 
 Module 1 - Introduction to Visualization Tools
 - Introduction to Data Visualization
